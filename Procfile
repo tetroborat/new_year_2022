@@ -1,1 +1,1 @@
-web: gunicorn graduation.wsgi
+web: gunicorn new_year_card_webapp.wsgi
